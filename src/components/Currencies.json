@@ -1,0 +1,42 @@
+{
+    "currencies": [
+      {
+        "name": "Etherum",
+        "shortform": "ETH",
+        "price": "$1,784.67",
+        "pool": "$19",
+        "weight": "50.49% / 25.00%",
+        "utilization": "0.00%",
+        "icon": "https://zomi.finance/static/media/ic_eth_40.5e255508.svg"
+      },
+      {
+        "name": "Wrapped Bitcoin",
+        "shortform": "WBTC",
+        "price": "$34,188.11",
+        "pool": "$0.00",
+        "weight": "0.00% / 25.00%",
+        "utilization": "0.00%",
+        "icon": "https://zomi.finance/static/media/ic_wbtc_40.8330ef8d.svg"
+      },
+      {
+        "name": "Ape Coin",
+        "shortform": "APE",
+        "price": "$1.37",
+        "pool": "$0.00",
+        "weight": "0.00% / 25.00%",
+        "utilization": "0.00%",
+        "icon": "https://zomi.finance/static/media/ic_ape_40.53ac41f3.svg"
+      },
+      {
+        "name": "USDCoin",
+        "shortform": "USDC",
+        "price": "$1",
+        "pool": "$14",
+        "weight": "49.50% / 25.00%",
+        "utilization": "0.00%",
+        "icon": "https://zomi.finance/static/media/ic_usdc_40.27f415ba.svg"
+      }
+    ]
+  }
+  
+  
