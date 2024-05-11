@@ -1,0 +1,38 @@
+{
+    "currencies": [
+      {
+        "name": "Etherum",
+        "shortform": "ETH",
+        "price": "$1,784.67",
+        "pool": "$19",
+        "weight": "50.49% / 25.00%",
+        "utilization": "0.00%"
+      },
+      {
+        "name": "Wrapped Bitcoin",
+        "shortform": "WBTC",
+        "price": "$34,188.11",
+        "pool": "$0.00",
+        "weight": "0.00% / 25.00%",
+        "utilization": "0.00%"
+      },
+      {
+        "name": "Ape Coin",
+        "shortform": "APE",
+        "price": "$1.37",
+        "pool": "$0.00",
+        "weight": "0.00% / 25.00%",
+        "utilization": "0.00%"
+      },
+      {
+        "name": "USDCoin",
+        "shortform": "USDC",
+        "price": "$1",
+        "pool": "$14",
+        "weight": "49.50% / 25.00%",
+        "utilization": "0.00%"
+      }
+    ]
+  }
+  
+  
